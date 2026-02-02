@@ -1,6 +1,6 @@
 {
   "name": "lookmax-backend",
-  "main": "index.js",
+  "main": "src/index.js", 
   "compatibility_date": "2026-02-02",
   "d1_databases": [
     {
