@@ -1,5 +1,12 @@
 {
-  "name": "lookmax-worker",
-  "main": "src/index.js",
-  "compatibility_date": "2026-01-26"
+  "name": "lookmax-backend",
+  "main": "index.js",
+  "compatibility_date": "2026-02-02",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "lookmax-db",
+      "database_id": "ff62c784-9302-4578-b20d-336aee8b73b6"
+    }
+  ]
 }
